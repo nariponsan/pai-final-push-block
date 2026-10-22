@@ -1,0 +1,8 @@
+
+Requesting state for world [default]...
+
+Model: [20]
+  - Name: wood_cube_5cm
+  - Pose [ XYZ (m) ] [ RPY (rad) ]:
+    [-0.112724 -0.207438 0.025000]
+    [-0.617373 -1.570793 -1.045193]
